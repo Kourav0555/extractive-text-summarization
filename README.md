@@ -22,5 +22,3 @@ The model assigns importance scores to sentences and selects the top ones to gen
 - NumPy
 - scikit-learn
 - Google Colab (optional)
-## Author
-Priya
